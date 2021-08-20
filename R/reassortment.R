@@ -43,7 +43,7 @@ set_layout <- function(virus_info, flow_info, layout="layout.auto") {
 ##' @importFrom ggplot2 aes_
 ##' @importFrom grid unit
 ##' @importFrom grid arrow
-##' @importFrom rvcheck get_fun_from_pkg
+##' @importFrom yulab.utils get_fun_from_pkg
 ##' @export
 ##' @examples
 ##' library(tibble)
